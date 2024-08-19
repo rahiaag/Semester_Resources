@@ -1,0 +1,95 @@
+div.CSS {
+  
+  background-color: rgb(54, 241, 54);
+  width: fit-content;
+  padding:2px 3px;
+  color:white;
+  display:inline-block;
+ 
+  margin: 3px;
+}
+div.PURE {
+  
+  background-color: rgb(39, 82, 224);
+  width: fit-content;
+  padding:2px 3px;
+  color:white;
+ display:inline-block;
+
+ 
+  margin: 3px;
+}
+div.JS {
+  
+  background-color: red;
+  width: fit-content;
+  padding:2px 3px 2px 3px;
+  color:white;
+ display:inline;
+ clear: left;
+ 
+  margin: 3px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+   
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    
+    padding: 20px;
+    
+  }
+  
+  div.ex1 {
+    
+   border: 3px solid rgba(255,255,255,0.9);
+      float:right;
+      padding: 5px ;
+    
+               }
+  div.ex2 {
+  
+   border: 3px solid rgba(255,255,255,0.9);
+      float:right;
+      padding: 5px;
+
+  }
+  div.ex3 {
+    width: fit-content;
+    padding: 0px 2px;
+   background-color:green ;
+      float:right;
+  }
+  div.ex4 {
+    padding: 0px 2px;
+    width: fit-content;
+   background-color:blue ;
+      float:right;
+      
+  }
+  div.ex5 {
+    width: fit-content;
+    padding: 0px 2px;
+   background-color:red ;
+      float:right;
+  }
+  h1.left {
+    font-size: 50px;
+    text-align: right;
+  }
+  h1.right {
+    font-size: 50px;
+    text-align: left;
+  }
+  p {
+    font-size: 20px;
+  }
+  hr { 
+    height:2px;border-width:0;color:gray;background-color:lightgray;
+    margin-top: 0px;
+   
+  } 
+  
