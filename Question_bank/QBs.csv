@@ -1,0 +1,483 @@
+Name of the Company you have been placed in. ,Profile Offered.,Was the placement through an off-campus drive?,"If yes, please mention the name of the drive and source via which you applied.",How many rounds were there in the Selection Process? (Mention the Rounds),Please describe in detail the questions asked in Round 1 (Online Test). ,Please describe in detail the questions asked in Interview Round 1.,Please describe in detail the questions asked in HR Round/ Interview Round 2. ,Questions asked in additional rounds (if any).,How did you prepare for this drive? Any advice you would want to give to your juniors?
+Intuit,Software Engineer + 6 month Co-op internship,No,,3,"q1. Given a positive integer, find the maximum integer possible by doing at-most K swap operations on its digits.
+q2. Given a boolean expressionCount the number of ways we can parenthesize the expression so that the value of expression evaluates to true. 
+q3. Count the number of ways we can parenthesize the expression so that the value of expression evaluates to true. 
+","Firstly asked about one of my projects. I was asked to explain in detail my project and also tell about the challenges I faced during that project. I was then asked to share screen and show my gfg and leetcode profile.
+Then I was asked one of the heap questions from leetcode.
+The question was to return a sorted linked list after merging N linked list(all these linked list are sorted).
+","The second round began with general introduction where I was asked about my hobbies and interests. Then I was asked about my project and my contribution in it. I was then asked the tech stack i used and a few questions regarding my project. Then on the glider link was shared and I was asked two questions on DSA. Namely finding the duplicate number in an array. I coded the question and I was asked the time complexity and optimization. 
+The second question was the check if the parenthesis are balanced or not.
+Then I was asked one operating system question about the deadlock. 
+I was then asked about deadlock avoidance and write a pseudo code to show deadlock.
+Then I was asked about ACID properties and one SQL query on outer join.
+",,"Solved questions on leetcode, gfg. Made sure I have good projects in my resume. If I had to put emphasis on one thing. Then I would surely say good projects make a difference"
+ZS Associates,BTSA,No,,3,"Round 1 had 3 parts: 
+Aptitude based mcq round, 
+a small case study round also mcq based,
+then a video interview round in which questions were presented on the screen and we have to record our video as we answer the questions. The questions were mostly behavioural based and 1 guesstimate was also asked. 
+Although you have to go though the entire round in one sitting you can take breaks between the parts if you dont start the next part immediately after completing one part.
+Get familiarised with common hr/behavioural questions beforehand as the time to think is very less, only 10 seconds and then the recording starts, so it will be beneficial if you have a structured answer prepared beforehand for common hr questions. 
+Also do practice a few guesstimates as you might get one during the video interview and you'll have to explain your approach.","During this round the interviewer asked my introduction, and following that were several questions related to sql and database like primary key, foreign key, difference between truncate and delete. 
+I was also asked to write 2 sql queries. 2 tables were given and i had to tell the emp_id values that were present in:- 
+1: either of the table, 
+2: both the tables. 
+I was also asked about one of my project as well during this round. 
+Along with these some numerical puzzles and a riddle was also asked.","The interviewer again asked me for my introduction and after that questions regarding my past internship experience were asked. My projects were also discussed in detail. Interviewer also asked about my hobbies and the sports i followed and asked me a guesstimate regarding the same. I was also asked some numerical puzzles in this round as well. 
+One situation based question was also asked, as i mentioned i was on the organizing team of a national level hackathon,  interviewer asked me if i have to now take it to an international level how would i manage it.",,"The one sure question you'll be asked in any interview is your introduction, and if you keep it relevant and interesting further questions will be from the things you mentioned while introducing yourself also. You can really make a great impression through just your introduction and set course for rest of your interview. For BTSA profile at ZS i would suggest to solve 10-15 guesstimates and practice sql queries really well. For BTSA profile dont do case studies as case study round is only for DAA and BOA profile."
+Squadstack,Product Engineer Intern,No,,"Screening(Resume)+Apti+2 Coding Rounds+ 2 Interview(DS +core,System Design)+HR",Apti(logical reasoning+maths)+Coding Rounds(constructive algo+graph+bs+tree+disjoint set),CS core +2 ds algo question,design an instagram and basic HR ques in HR round,,Solve as much question as possible on leetcode for interview and for coding rounds do regularly codeforces and codechef
+Deloitte,Risk and Financial Advisory Analyst,No,,2 (online round 1 and then hr round 2),"General apti- QI LR and English. Programming had 4 sections SQL, Java, technical aptitute, automata",There was only 1 interview round ,So interview round consisted of tech+hr where they asked basic personality based questions and every tech question was based on my resume. About my projects internships then my schooling why ece student in an it industry your long term goals favourite subjects.,,Just be honest in your resume as well as your interview. Be confident and polite they test you for under pressure conditions so be calm and don't panic. Prepare nicely for apti and coding rounds.
+Deloitte USI,Technology analyst,No,,2 rounds: 1 online assessment and 1 interview ,"It was an AMCAT based assessment. You won't be able to skip any question or change answer to any previous question. There was no negative marking. All questions were MCQ based and each section had a time limit. There were 7 sections in total: 
+1. English
+2. Qualitative aptitude
+3. Quantitative Aptitude
+4. SQL
+5. Java
+6. HTML
+7. Programming MCQ's
+138 students for technology analyst were shortlisted for the interview round.","It was a mix of technical and HR round. It went for around 35-40 minutes. I was first asked to introduce myself and why I wanted to join Deloitte. After that, she asked me questions related to DSA. 
+1. Why linked lists are preferred over arrays? 
+2. What is the difference between a singly linked list and doubly linked list?
+3. What are the applications of a doubly linked list?
+4. How to implement queue using stacks? Write code also.
+Then I was asked to explain my projects. She also asked some questions related to my projects and internship. Then she asked my strengths and weaknesses.
+Some guesstimates were also asked:
+1. No. of cars on road in your city on a Monday morning at 9am.
+2. Total no. of curtains required for the JIIT campus. 
+At the end, she gave me an opportunity to ask any question.
+
+54 students were given the offer letter for this profile. 
+",There was no round 2.,,"For Aptitude follow RS Aggarwal. 
+For DSA, follow GFG. 
+For subjects like DBMS and OS, you can refer YouTube or GFG.
+For OOPs, refer OOPs using C++ byJoyce Farrell or Sumita Arora C++.
+
+Make your basics clear! You will be most tested on your basics! Try to practice DSA as much as you can from Leetcode or GFG. But be consistent! Solving 2 questions per day is much better than solving 14 questions on weekends. 
+Approach to solve a particular problem matters more than the final solution.
+Be confident and be interested to know more about the company.
+
+If you still have any doubts, feel free to message me on whatsapp or contact via email. All the best!
+"
+Wipro,SDE,No,NA,2,Aptitude,Mental ability,NA,NA,Ds
+Cognizant,Full stack Java Developer,No,,2,"Questions related to DSA, OOPS, OS etc were asked.",Technical questions were asked in order to assess the problem solving ability and technical knowledge.,General questions were asked,,
+Tavisca Solutions,Software Trainee,No,,4,"Normal Leetcode questions basically from graph, dp and string topic","Some dsa questions, normal core subjects questions, projects, development scripting",Normal conversation one on one. Experience in this industry. Where do you see yourself in next 10 years. Why this company,,Striver series
+Deloitte,Risk and financial advisory,No,,1,General aptitude question,"Skills, projects, oops, managerial",NA,,Be confident and have good communication skills. Easier than other companies
+Planful,SDET Intern,No,,2,Do not remember. ,"Kadane algorithm, rain water trapping problem, parenthesis check using stack, search elements in very large 2d array",NA,,"Make your DSA strong.Prepare Interview asked OOPS, DBMS, JAVA, OS questions"
+Infinity Business Insights ,Software Development Engineer,Yes,LinkedIn Job Portal,"3
+2 Technical 
+1 HR",Sliding Window Medium,"Sort characters by frequency 
+Odd even linked list ","Minimum Window Substring 
+Minimum Insertion Steps to Make a String Palindrome",HR - Basic HR stuff nothing out of ordinary.,Pepcoding’s Youtube channel for learning and L E E T C O D E is must for practice.
+Nference,Software Engineer,Yes,,"1 online round, 4 interviews(2 technical, 1 vp and 1 hr)","Threading in Java,Cpp , DSA based trees, OOPsetc","Backtracking, COA, OS, Compiler Design",Behavioural Questions,,"Practice on LeetCode, focus on os, coa and networking topics"
+ZopSmart,SDE,No,,3,Basic MCQ based on javascript,Competitive programming question,About company,,
+Magic Edtech,Intern,No,,"2(aptitude test,interview)",Simple basic aptitude questions,Simple HR questions,Simple HR Questions,,
+Zopsmart technology,SDE intern,No,,3,Aptitude test,DSA based questions,DSA oops ,HR questions,Practice DSA
+DS group,Software Developer Engineer,No,On campus jiit,"3 rounds, online test round, technical and then managerial",Questions were mainly from Data structures and Cs core fundamentals,"Tell me something about yourself, project discussion, javascript in detail questions","Project discussion, tech stack discussion what the purpose of using this tech stack only",,"Through online resources, important tip, take one resource and don't leave it before it is completed"
+Zopsmart Technologies,SDE,No,,3,"1 dsa question,oops,DBMS,operating system",Dsa,Two questions of dsa,3rd round was HR round,"Leetcode,gfg"
+ZS Associates,Business Technology Solutions Associate,No,,3,"Aptitude, business case study, virtual interview","Introduce yourself.
+Normal forms in SQL
+Functional dependency
+acid properties in dbms
+Transaction
+Logic puzzles
+Joins in sql
+Advanced SQL Queries
+","HR based questions
+Situational questions
+Projects mentioned in resume
+Logic puzzles
+Case study
+",,"DSA from gfg
+Top dbms interview questions
+Top interview SQL queries
+Top OS questions
+Previous Interview experiences from gfg"
+SAP Labs,Developer Associate,No,,4,2 coding questions-1 easy and 1 medium to hard level,"Very polite interviewer, talked a little about the Projects mentioned on Resume, then asked 3 coding questions, after that few ques on OS","Managerial rounds, situation based questions, followed by a short HR round",,"Make your basics of coding strong, and atleast a basic knowledge of OS, DBMS concepts"
+Zopsmart,SDE,No,,4,Aptitude,DSA,DSA,,
+Genpact,Senior associate ,No,,3,First round is basic coding and aptitude based objective question .mostly asked from java,"Oops ,coding questions Array,sql,java functions","Normal talk about your background, your cv,projects",,Geeksforgeeks is enough 
+Optum,SDE,No,,2,Problems based on DSA and mathematics,"Questions were asked based on the projects and tech stack mentioned in the resume. Also,  DSA based question was asked to be solved on an online editor.",The questions were related to the role offered and based on your personality.,,"Preparation for coding rounds can be done on online platforms like geeksforgeeks, interview it, leetcode etc. Other than this theoretical questions based on OS, DBMS, CN should be prepared as well."
+Amazon,SDE Intern,No,,2,"There were 4 sections in the online test which was held in the month of August.
+
+Debugging questions (Easy)
+Coding Questions (Easy-Medium)
+General Aptitude Assessment (Easy)
+Workstyle compatibility test ","Q1. Find the first index of the non-repeating characters in a string. 
+Q2. A variation of rotten oranges which was about finding the time by which all patients in a ward will get COVID infected, given there are three types of cells:  [0]-with no patient, [1]-Patient with some disease except COVID, [2]- with COVID patient","Q1. Merge K Sorted Linked Lists.
+Q2. Find total number of (i,j) pairs in array such that i<j and a[i]>a[j].",,"My final advice would be to believe in yourself and answer with confidence. If at any point you realize your approach is wrong then be honest and humble. Smile, be polite, and try to think out loud. Also, solve as many previous interview questions as possible."
+Dagoso,React Native Developer,No,,3,DSA QUESTIONS,"Two DSA questions were asked, one based on backtracking second based on stack and queue",One question on heap and then normal HR questions,,"Mainly leetcode, GFG, and YouTube videos"
+Icertis,Associate software developer ,No,,"3 rounds, 2 Tech and 1 Hr",There were 2 coding questions and they were really tough ones if compared to the questions asked in other companies and there were other aptitude based mcqs,"Sql queries, questions from dbms, oops concepts and there real life examples, they also asked us to write a code but it was simple ds algo, questions on projects.","Basically same topics, questions of dbms, written sql queries, the interviewer asked me to write a ds algo code, it was a pattern code, gave scenarios to see how we think, how we’ll act in a problem.","Hr round- About myself, my family, preferred job location, brief about my projects and cleared our queries.","Oops, Computer network, dbms, ds algo study thoroughly"
+Jio,Developer ,No,,2,Three question of coding which is simple to difficult level ,"About project, dsa questions on stack and queue, oops, cloud computing which i mentioned in my resume, and database related questions. ",Not held ,,The process is to easy but be confident and you should know that what you mentioned in your resume 
+Jio Platforms,Deputy Manager,No,,3,Coding question,Coding question,Coding question ,,
+Cognizant,Genc,No,,3,The questions asked were IQ based along with puzzles.,They asked all the programming questions of the language which i mentioned in my resume . The questions were mainly theoretical and of inheritance . And also of basic programming questions.,they just asked if i was having any doubts and verified the details .,,One should know the basic programming questions and should cover the programming language till inheritance. And one should also know how to solve puzzles and should practice Iq based questions.
+Infosys,System engineer ,No,,"Test, interview ",Aptitude and small coding question in sql and c,"HR questions, general knowledge of coding and projects done in college ",NA,,Be yourself 
+Deloitte,Risk and Financial Advisory ,No,,2 rounds ,Coding questions from SQL Java and basic theory questions as well as one word programming question. Aptitude questions including logic reasoning maths.,"Introduction, details about 3rd year internship, resume based interview, why you want to join Deloitte, why from ece and applying for a tech job, will you join in any designation we offer, long term goals.",Only 1 interview round was held,,Take courses from geekforgeeks for coding prep and prepinsta placement course for apti and interview rounds. Watch yt videos and talk w seniors in the specific companies for better understanding 
+KPMG ,Analyst,No,,2 rounds : Online Test & Technical Interview,"It was a basic aptitude test consisting of reasoning, quant, english, etc.","Though it was named as Technical Interview but there were only HR questions. 
+Typical questions about yourself & situationals like how would you resolve a conflict in your team, or what would you do with a lottery price, etc.
+My interview went for 35 mins. It was simple & friendly. ",There was no Round 2,,Nothing specific. Some presence of mind & a good flow of communication will be enough.
+Jaro Education,Career Development,No,,"GD
+HR Interview
+Final Interview",It was a GD on India ready to go cashless or not,"Asked me to sales pitch a Shirt to a mechanic
+Asked me about why sales
+Asked about universities partner of Jaro","Asked me why sales since doing Engineering
+Asked about my work that I did in Proffus(my past company)
+Asked how I managed study for past 1 year with Job
+Asked why they should prefer me over BBA's and MBA's",,My job experience helped as it was in same domain. Also be yourself and talkative. Don't stay quiet.
+Cognizant,Data Scientist,No,,2,Coding questions on DP and DSA,Interview questions on DSA,Basic HR questions,,Competitive Programming websites.
+ULA,SDET,No,,4,"3 coding questions, 2 medium level, 1 high level. ","Simple array question, but i was asked to decrease the complexity, so gradually it became the question of maping. The interview ran for about 1 hr 15 minutes. I gave 3 solutions for the same question. ","Round 2- 3 coding questions, had to provide almost 3 solutions for each question by improving the complexity. But question were small comparatively from round 1.","HR round was easy, same questions which college provided us to prepare. ","Keep your basics strong, u will be able to improvise once you can figure out the brute force solution. "
+Accenture ,Advanced ASE,No,Campus drive through JIIT,4,Cognitive technical and coding ,Communication assessment ,Normal coding questions ,,Through studies taught from college and further courses from third party apps 
+ZS Associates,BTSA,No,Campus drives ,6,Aptitude/Case Study/Virtual Interview,Logical,Cases/Guesstimate/Puzzles/Coding/Reasoning,Na,Na
+Red Hat,Intern,Yes,Reference through a friend,3,"Very simple questions about array, and graph theory basics.","Questions about containers, linux, operating systems.","Question about system design, Kubernetes, Kubernetes Operators, Operating Systems",,
+BlogVault,Software Engineer,No,,4,8 Aptitude question 2 medium level DSA questions,Nothing that i remember it was normal round,CEO round was held last and he asked about projects that I did and what challenges i faced during my intern and how i solved it,Regex coding,Prepare DSA and little bit of Aptitude like remember NUMERICAL APTITUDE subject if you took it in your Objective sunject
+Amazon,SE,No,,3,"Aptitude , and DSA ( Can't Remember the exact questions)","There were 2 questions , one was finding if a number is a circular Prime or not , and other was in order traversal of a tree","I did some freelance , so they majorly asked me about that experience , how did you takle the problems , what you learned , etc.",,"Make your basics strong , then proceed forward with it."
+GreyB,Associate-insider sales,No,,5,Aptitude Test,Resume based,Generic Self portrayal,,
+Zopsmart Technologies,SDE,No,,2 technical and 1 HR,"Questios were based on OOPS, OS, DBMS, JS","Question were based on Linked list, my project, OOPS and DBMS",Question were based on Trees and Graph,,
+Infosys ,Tester dx,No,,3,Mental ability ,React oops,React deep knowledge ,,
+Oracle,Associate Consultant,No,,"3 Rounds - Online Assesment, Technical Interview Round 1, Technical Interview Round 2",Data Sturcutes and Algorithms Questions and Logical Reasoning Questions,"Pattern Print Questions, Questions based on Projects","Prim's Algorithm, Kriskal's Algorithm, SQL Questions, Java Questions",,
+Icertis,Associate software engineer,No,,4(coding test->2 technical rounds->1 hr round),"4 questions (array,linked list,trees)","Theory of dbms(dbms models), questions on projects, different types of entity relationships,torch and bridge puzzle, water jug puzzle","OOPS concepts,ACID properties,which keyword is used to limit inheritance,Cloud concepts(because i had mentioned it in my resume),OS concepts,static keyword,sql queries.",,"Practice DSA and sql queries and before the interview study OS,OOPs and DBMS concepts(mainly ACID properties)."
+Accenture,Associate Software Engineer ,No,,"4 rounds of online test , 1 interview round ",Programming questions ,Some HR questions and some Technical questions ,"Hobbies,how to manage team work.",,
+Reliance Jio,Deputy Manager,No,,2 rounds,Round 1 was an online test consisting of mcqs and programming questions. MCQ were mixed of programming and reasoning questions.,Interview was smooth I got two coding questions to solve those were of basic array and string question. Secondly DBMS and operating system theory questions were asked.,HR round was merged in first interview itself basic hr questions like tell me about yourself and strengths and weaknesses etc were asked.,NA,I prepared through YouTube playlists and by solving questions based on DSA and have gone through theory questions of DBMS OS CNS.
+Infosys,DSE,No,,2,"There were 3 coding questions one question is based on dynamic programming, other one on graph and the last one is array based questions. 
+Level of difficulty is somewhere between medium and hard.","The interviewer first asked me to introduce myself. Then he straight away asked me a question a binary tree questions where i have to find the left view and the right view.
+
+After this he asked me question related to DBMS.
+
+He also asked me questions related to my project that i have mentioned in my resume.
+
+And at last he asked me some HR based questions like why infosys and all. 
+
+Then he asked me if i have any question for him.",There is only one round of interview so i have mentioned everything in that.,,
+Cognizant ,Programmer Analyst ,No,,3,NA,NA,NA,,
+Cognizant,Programmer analyst trainee,No,,1 round technical,Coding and aptitude,SQL based and some c++ program,Govt Id proofs,,
+Lumiq (crispanalytics) ,SDE(full stack Engineer) ,No,,3,"Oops concepts, DSA, sql",Oops concepts and resume projects,NA,,"Prepare oops concepts
+Resume projects"
+Fiora starquik,Get,No,,4,3,Opps ds question,Basic server ip based question,Hr round about project,Studying dsa
+Nference ,Software Engineer ,No,,4,"MCQs , 1 DSA question , some miscellaneous questions ","Questions were asked on Recursion, stack and strings.",Questions were asked on Dynamic Programming (stock price related questions) and maps.,,Search about the past interview experience and prepared according to that.
+Cognizant,Programmer analyst,No,,2,coding round,All the questions related to resume,Only verification of documents,,
+Reliance Jio,SDE,No,,2,String question,Hashmap question ,Common HR question ,,
+Testbook,Data Analyst,No,,"Online test, Tech Round, HR round",Aptitude Questions,"Coding question based on Hash Map, SQL query ","Case study of Netflix where they stopped the auto-renew option for inactive users, So how do they find it.",,Don't stop thinking and interacting till the interviewer stops you and should have some knowledge about DSA. And try to do at least 1 internship in the relevant field  
+Amazon,SDE intern,No,,3,"Aptitude, Debugging, Coding questions (2 - One on Arrays and dynamic programming, other on BFS), Leadership principles","Questions on resume, Question on Tree, Question on Array","Questions on resume, Question on BFS + DP + MATRIX",,Leetcode grind.
+Bukukas,SDE-1,No,,"4
+1 online assessment
+2 technical interview 
+1 HR interview ",There were 2 questions on arrays ,"technical interview 1 
+The interview started with introduction
+then the interviewer asked about my projects as well as my past experience 
+then he asked me to reverse a string
+then asked me questions related to multi threading and OS since they were mentioned in my project 
+then they asked basic computer networking questions 
+and ended the interview if I had any questions for him
+the round lasted roughly 45min to 1 hour","technical interview 2
+the interviewer started with general introduction 
+then asked me about one of my projects and about multi-therading and locks 
+then ended the interview with asking if I had any questions ","HR Round 
+asked basic questions about me 
+",
+Deutsche Telekom,Software Engineer,Yes,Official,2,How are you,Whats your name,What is your age,,Youtube DSA videos
+Reliance JIO,SDE,No,,1,"Questions Related to CSE covering data structure, DBMS and 2 coding questions",Focused on implementing concept of Data Structure and it's deep knowledge,No HR Round,,
+Deloitte USI - Risk and Financial Advisory,Technology Analyst,No,,2,"Aptitude Questions, SQL, English, Basic Computer Science, Java","About projects did in college, Difference b/w linear and non linear data structure with examples, How to implement queue from stack (only theory, no code), Puzzle","What is  your hobby, Why Deloitte, How was College Life",,"Put more efforts in Online Test, Interview is not tough, interview will mostly be based on resume."
+Deloitte USI,Technology Analyst,No,,2,"The online test consisted of MCQs based on Java, Advanced HTML5, CSS and code debugging questions. The test was conducted  the AMCAT platform. ","I was asked to introduce myself, this was followed by some questions related to my internships like what was was the project about and what were my learnings from it. 
+After a discussion on my resume I was asked about my family background and how do I keep myself updated about the happenings in the world. ",Not Applicable. ,,"Just be calm, confident and cheerful during the interview. Take it as a conversation with a senior and share your genuine experiences. 
+Also, you should display a motivation for joining the company. "
+Innovaccer,Data analyst,No,,2,Advanced SQL and dynamic programming ,Advances SQL queries ,Focused about how much of a valued based person you are .,,Prepare SQL and dynamic programming thoroughly .
+Wipro,Project Engineer ,No,,2,"Simple maths, verbal, reasoning, coding ",About projects,Personal information ,,
+Optum (UHG),SDE,No,NA,"3 (Technical test, Technical interview round & HR round)","General aptitude questions, data structures & algorithms, DBMS, statistics (All MCQs) & coding questions (codes)","C++ basics, DS Algo, SQL (DBMS), web development, internship projects","General introduction, why do you want to join the company, why this position, etc. ",NA,"Geeks for Geeks, YouTube tutorials, previous interview questions, college course material. "
+Amazon,Sde-Intern,No,,3,There were 2 ques. I can't exactly remember the questions but both were of leetcode medium level. ,"He started with th introduction. 
+The round went for 1.5 hr
+Then asked me a stack based question the question was asked in competitive programming format as in a story was mentioned and u have to deduce the data structure or algo needed to solve it. 
+
+Second question was preety basic one. In leetcode it goes by the name stock buy and sell which is a standard question. ","This round was behavioral and dsa mixed. He asked me to write the code for a tree question which was again a preety standard one.
+The que was to find the about some kth distance of the node can't recall it. He asked a lot of follow up questions mea while.
+We have to write the code on their editor.
+He also asked one behavioral que to me. ",,"Practice dsa as much as you can. Follow leetcode, gfg etc sites but atleast make it a habit to solve one que daily.
+Be confident and believe in whatever you have prepared.
+All the best!! "
+Farziengineer,Backend,No,,2,It was mainly architecture based questions,.,"Family background, what do you want to achieve etc.",,
+RTDS,SDE-1,No,,2,It was a hackerrank test having 3-4 questions with easy-medium level array questions.,There was a panel of 4 people everybody asking different set of questions ranging from easy-medium level on core subjects like OOPS-DBMS. They asked some basic questions related to Data Structures and at the end about the project.,"It didn't happened, but it was a managerial round. They shortlisted directly.",,Prepare from gfg/leetcode for DSA. Complete your core subjects with good fundamentals. Have good projects which only you have made. Having extra skillset is always a plus.
+Reliance Jio,Deputy Manager,No,,Online test and Interview ,"DSA coding questions on linked list and binary tree.
+Few multiple choice questions","Questions on projects in my resume, Questions on DBMS and SQL , 4 coding questions on sorting, queue, hashing and linked list","Questions on the projects made by me, 
+Job location preference",,Keep practicing DSA coding questions and have good knowledge of core CSE subjects
+OFSS,Associate Consultant,No,,3,"Quantitative aptitude, qualitative aptitude and computer programming",College projects and computer algorithms,General HR questions,,
+Deloitte USI,Risk and Financial Advisory ,No,,"2 rounds (1. Aptitude round- Maths,English,LR,Html,Java. 2. Interview round- HR+Technical ques) ","Basic aptitude ques (Maths,English,LR,Data interpretation,Html,Java) ","Introduction, basic HR questions like strengths, weakness etc., Questions from your CV. Discussion on your projects. Technical questions (Python etc.). Guesstimate questions (very important)",-,,"Read and research about the company you’re appearing for. Practice aptitude questions (the questions are easy but the time is less, so practice how to manage your time). Improve on your communication skills.Try not to give “typical” or “general” answers during the HR round; tell your story, give examples and be authentic. Don’t lie on your CV. Most of the questions they ask are from your CV. Brush up on your technical skills."
+Cubastion,Graduate Trainee Engineer,No,,"3 Rounds , 1. Aptitude test , 2. Group Discussion, 3. Technical Interview",Questions that were based on the logical reasoning of the candidate,Group Discussion in which a topic was given and you are supposed to give your opinion about the topic,Technical Interview based on the skills written on your Resume and little bit of logical reasoning questions,,"Strengthen up your basic knowledge of C++ , Data Structures and maintain a positive attitude while responding in the interview"
+Paytm Payments Bank ,DevOps Engineer ,No,,2,"DSA Round. 4 questions, mostly easy. More focussed on how fast you can complete this round, instead of the solution.",DSA Round. Question based on hashmap. Explain the solution as well as write the code in a pair coding space. ,Round 2 based on computer networking concepts and Operating systems. ,,
+FarziEngineer,Software Engineer (Frontend),No,Na,2,Javascript questions were asked,All the web development related topics were asked,Why do you want to join this company,,
+Reliance Jio,Designation is Deputy Manager. Profile will be offered on the basis of live project.,No,,2 rounds (Online test followed by a technical interview),"Aptitude based questions,2 hands on programming questions and few questions based on programming fundamentals.","Questions based on projects, database related questions, one pattern printing program and rest from OOPs concepts.",NA,,
+DXC Technology,Softwere Engineer ,No,,2,Basic CSE,one code and basic cse,Basic,,NA
+Vehant technologies ,SDE,No,,3,"We 2 DS algo questions One intermediate,One hard level","Two DS algo , Operatting systems , Computer networks , DBMS",2 DS algo,1 DS algo,
+Publicis Sapient ,Associate Software Developer,No,,3,3 coding questions ,2 dsa question + introduction + project ,General question ,,
+Jio Platforms,Deputy Manager,No,,2,ABcD,ABcD,Abcd,Abcd,Work hard you’ll get through
+None,None,No,None,None,None,None,None,None,None
+None,None,No,,Not placed yet,Not placed yet,Not Placed yet,Not Placed yet,I am not placed,"DSA usually, and my advice is to do Leet Code and striver sheet for getting better at it."
+Accenture,ASE,No,NA,3,Aptitude and coding,"DSA, Python basic, Operating system",Very easy basic HR questions,NA,Do all DSA questions thoroughly.
+JIIT College 128,Full Stack Developer,Yes,Guvi site,3,Assessment,Code on react,Basics,N/A,Study yourself
+Paytm Payment Banks,Dev Ops Engineer,No,,"1- Online, 2-Technical",Coding related questions intermediate level,"Basic introduction, project related questions, puzzles, theory related ",Coding questions 1 intermediate 1 hard level,,
+SBI CARDS AND PAYMENT SERVICES,Management trainee,No,,2,Group discussion,"Questions asked from resume, projects , Electronics & little bit of programming",NA,,
+FarziEngineer,SDE,No,,3,"Sql , DSA and some normal coding questions","About my projects , basics of cloud computing , networking and DSA ",Tell me something that's not in your resume . Where do you see yourself in next 5 years  etc.,,Prepare your projects and be confident in what you have put in your resume. Never write anything lie in your resume that you haven't done .
+Nference,Software Engineer,Yes,Via LinkedIn ,3,"There was no online test in my case, since I applied directly for a UI role via referral.",Basic Javascript questions ,"React coding round, advanced javascript ",HR round,Online sources especially freecodecamp
+L&t technology services,Associate engineer,No,,3,Online test with MCQ and coding questions,Coding questions,Group discussion on random topic,,
+Not applicable,Not applicable,No,,NA,NA,NA,NA,,
+DXC,Associate professional ,No,,N.a,N.a,N.a,N.a,,
+Accenture,AASE,No,,3,"Aptitude, Quants And English",There is only one interview which was HR interview,"Just normal talk and questions from resume like hobbies, Projects, etc.
+My views on online classes and on other topics","2nd round was coding round consists of 2 easy to medium level questions. 
+3rd round is English speaking round where they check our English.",YouTube
+L&T Technology Services ,Associate Engineer ,No,,3,Questions based on ECE subjects and some CS questions ,Questions based on programming languages and some HR questions ,NA,,
+DXC technology ,Associate professional ,No,NA,2,Basic aptitude and DSA,My strengths and weaknesses introduction basic coding questions ,If I m comfortable in moving and aptitude questions ,NA,Just revise your projects and concepts thoroughly 
+None,NA,No,,0,NA,NA,NA,,
+Jio,SDE,No,,2,Dsa,Coding question..dsa theory,Basic intro..about company,,Practice more and more questions from leetcode and other competitve platforms
+Infosys - HWI ,DSE ,No,,3 rounds,"There were 3 coding questions ranging from medium to hard difficulty with the major topics covered to be DP, Advance Data structure and Algorithms. ","For coding : 
+Advance DS Algo 
+Web Dev coding 
+
+For theory : 
+DBMS, OOPS, Nerworking, SQL ","Past tech experience in internship
+Relocation issue 
+Things you know about infosys ",,"From 6th semester start learning your core CSE subjects such as DBMS, CN, OOPS and solve DSA questions on a regular basis. 
+I would prefer to solve Love Babbar's 450 Dsa question sheets "
+Accenture ,Associate Software Engineer ,No,,4,"Cognitive, technical and coding questions","1. Tell me about yourself
+2. Explain about your project
+3. Why you want to work in Accenture ",There was only one round of interview.,,
+No,Mo,No,,No,No,No,No,,
+Vakt Global Ltd,Software Developer,Yes,Through Refferal,3,NA,Mostly based on Web Development and an Assignment,Advanced questions on Web development and system design,Previous Internship experience and about myself.,Internship experience and learning matter a lot it's not only about competitive programming.
+NA,NA,No,,NA,NA,NA,NA,,
+Amazon,SDE(full time),No,,4,"DSA(DP, Array)","DSA (Graph , Sorting)","DSA(DP, Tree)","DSA(Graph, Trie) ",Leetcode
+Infosys ,DSE,No,,4,Coding questions ,Dsa + dbms,Company culture ,,Stay calm and practice DSA questions as much as possible 
+Jio Tesseract( Tesseract Imaging Ltd ),Software Development Engineer,Yes,LinkedIn Jobs,2,Questions related development of AR/VR Apps/Games using Unity Engine and C# and various other SDKs ,"Interviewer asked many questions related to Unity Engine, C#, Data Structures, Algorithms, Optimisation, OOPs","General HR Qs like Why do you want to work with us, how much package are you expecting, your weaknesses and strengths... ",,Online 
+Oracle financial services software,Associate consultant,No,,4,"Data structures, algorithms, oops, computer networking, operating system, program control flow, aptitude multiple choice based online test","1. Asked about all of my projects in resume in depth
+2. Program for merge sort
+3. Program to reverse a string
+4. Some sql queries
+5. Databse transaction real life based question
+6. Some reasoning questions","1. Asked about real life implementation of one of my project
+2. Question on oops, networking, operating system",Hr round- General talk relates to company,"1. Created notes of important questions asked in interview from networking, operating system and oops.
+2. Prepared Ds algo in depth.
+
+Advice- Prepare a good resume, it should not contain false information. They mosly asked questions from what you have written on your resume. Dont write skills on resume you dont know about, they will ask each and every thing.
+
+
+"
+NA,NA,No,,NA,NA,NA,NA,,NA
+Reliance Jio,SDE,No,,2,"Aptitude mcqs, DSA questions(mcqs) ","DSA, DBMS, OS, Project/internship discussion","About me, basic HR questions",,"By myself through the help of various youtube channels, geek for geeks and n number of sources from the internet. "
+SBI CARD,IT Function,No,,3,Data structures basics and SQL,"C++ skills, Database, data structures ","Family background, location, puzzles ",,
+not placed,not placed,No,,-,-,-,-,,
+KPMG,Analyst,No,,3,"Numerical Aptitude, Basic Array Coding Questions",English Speaking/Writing/Listening Test (Computer Generated Test),"Question related to projects, internship experience and situation based question while working in the company",,"geeksforgeeks, leetcode and youtube channel for interview preoparation"
+Optum,TDP II,No,,2 (some people had 3),"49 MCQs consisting of technical and aptitude questions, 1 easy level coding question.","Introduction
+2 Medium level data structures coding questions involving simple topics like arrays, strings, linked list. 
+CS fundamental questions and project related questions
+1 logical reasoning question",-,,
+Oracle (OFSS),Associate Consultant ,No,,4,About DSA and aptitude questions (MCQ),"About resume, projects, oops and coding questions.","About resume, projects and oops, DBMS.",General HR questions in round 4.,
+Publicis Sapient ,Trainee Engineer ,No,,3,"2 DSA Questions on Recursion, Mathematics ","How to reverse a link list?, DBMS, OOPS","Describe yourself?,
+Where do you see yourself in next 5years?, 
+What are your hobbies?,
+Is Developer better than a Tester?",,
+Infosys,DSE,No,,2,There were three coding questions one from graph one from linked list and one from dynamic programming. All questions are from medium to hard level,The question start from introduction and then the interviewer ask basic concepts of oops and then one coding question of binary tree and one two sql question ,There is only one round,,Via gfg
+TCS,Nainja,Yes,Tcs website,2,Coding questions and maths ,Sorting,Are you comfortable to relocate?,,
+Not placed,N/A,No,,N/A,N/A,N/A,N/A,,
+Na ,Na ,No,,Na ,Na ,Na ,Na ,,
+Deloitte,"Analyst, Risk and Financial Advisory",No,,2,MCQ ,"Java, SQL, Aptitude Test, Data Structures",Management and Conflict Resolution related questions,,
+TCS,Ninja ,Yes,,2,Coding and maths ,Sorting,Are you comfortable with re locating ,,
+Landisgyr ,Software engineer ,No,,2,2question easy level were asked and aptitude ,"Opps,DSA question, puzzle ",Personal details were asked only,Na,"Leetcode,gfg"
+Accenture,AASE,No,,"5
+1) cognitive and technical round
+2) coding ability round
+3) communication round
+4) technical interview
+5) HR interview","Questions related to basic aptitude, English, coding, DSA","Questions related to SQL, JAVA, Javascript, projects done in college","Why should we hire you?, Your hobbies?, How are you fit for this role?",,"Prepare for DSA, SQL and coding"
+Amazon,Support Engineer,No,,"3 , Online Test , 2 Coding rounds","MCQ , and code fixing , one code around arrays , and one around trees","Circular Prime , and alternating level printing of a tree.","Questions about Stacks , and Queues were asked.",,
+Accenture ,Ase ,No,,"4 (Aptitude, Coding, Listening and speaking, Interview) ","Questions from a given passage, synonyms, abstract reasoning , Pseudo code ","Questions related to your projects mentioned in the resume (Explain your role, Difficulties while working in a team and how you resolved it etc), why do you want to join this company + similar HR Q's",Same as above mentioned ,,"Practice coding regularly from GFG or similar websites, look up interview experiences of previous years "
+DXC,Associate professional ,No,,2,"Mental ability and technical domain que related to programming , database and oops , data structure ","Details of projects ,motive behind making projects , difficulties faced during it , challenges in online semester compared to offline sem .","Behavioral ques related to conflict of ideology in making any decision in project , how i dealt with it, my weakness and strengths. ",,"Did discussion with my seniors, their advice helped me to plan a strategy for placements. "
+Cognizant,Programmer Analyst Traniee,No,,"Aptitude Round, Technical Round, Hr Round","Aptitude test consists of questions from the topic like quantative ability, logical ability and english comprehension.",Questions asked were about Java after that they asked puzzles and some reasoning questions.,Asked to show the documents and if i am available for intership.,,
+Infosys ,DSE,No,,2,3 programming questions,"Basic DSA questions, basics of dynamic programming, project based questions",NA,,
+Nonr,None,No,,NA,NA,NA,NA,NA,NA
+Oracle Financial Software Services Ltd.,Associate Consultant,No,,4,Test is more inclined towards aptitude and reasoning.,starting with intro and then a good discussion on my projects. This round is easy one.,"My projects are in advanced java and android. Detailed questions on advanced java, JDBC concepts, OOPS concepts, how android dev works, it's compilation and deployment were asked.",Final round is the hr round. There is nothing much in this round.,Be prepared for what you have written in your resume.
+Ericsson Global,Associate Engineer Trainee,No,NA,3,"English, Qunat and reasoning questions. 15 questions from each section.",Some HR questions and Technical questions related to Telecommunication,Describe yourself and your family. What do you know about the company. Are you willing to work in shifts.,NA,Prepare some basic telecommunication questions ( easily available on the internet). Prepare for situational based questions like what would you do if you and your manager have different opinion on somethings or how will you manage when your team mate is not doing his/her work properly. ( available on the internet).
+Amazon ,SDE 1,No,,4,NA ( can't disclose due to company policy ),NA,NA,,
+EY India,Analyst,No,,2,"Aptitude
+Reasoning
+Basic c++
+","About Myself
+Resume details (projects explanation)
+OOPS Concepts
+Artificial Intelligence
+
+
+
+",Not happened (got selected only in interview round 1),,
+-,-,No,-,-,-,-,-,-,-
+Tavisca,software trainee,No,,"3 (online test, technical interview, hr interview)",mid level coding question using important database concepts,"easy to medium coding questions, critical thinking questions, important database and algorithm concepts like use case of databases and algorithms","Interests, strengths, weaknesses, how do you deal with team dynamics, where do you see yourself in future",,"understand use cases of databases and algorithms, make a habit to code on competitive programming platforms regularly get a idea of what practices causes Time limit exceed also realise the time limit expected by the question by looking at the given limits on variables, practice dynamic programming atleast for a month to crack high paying jobs, study basics of different technologies aswell online tests have variety of questions"
+Landisgyr ,GET,No,,3,"General aptitude, programming","Coding questions, os, dsa, databases, previous projects",Situation based problem solving questions,,
+Cognizant,Data scientist,No,,2,Technical questions,Technical questions,Hr questions,,
+Jio private limited,Graduate Engineer Trainee,No,,2,1st question was based on python language as my prefer language was python like difference between dict and list and 1 dsa question ,DSA question was reverse a linked list,Round 2 was based on my project and general introduction about yourself,,Geeks for Geeks
+BlogVault,Software Developer,No,,3,Around 20 questions including 3 coding questions and rest APTITUDE,--,"General coding, CS core sub related questions, and one tricky mental ability question",One hard coding question of dp,"Just prepare for good quality coding que, and aptitude if possible will give you edge"
+3clogic,Software engineer ,Yes,Through hackerearth ,4,"basic mcq of logical , op questions and 2 array and string coding questions ","about linklist , hashmap, oops, queues",same topic as round 1 but have medium level,manager and Hr round .,practice through GFG practice feature
+Innovaccer,Data Analyst,No,,3,Questions were based on Data Structures and SQL,"Questions were basically on SQL, Advanced Python and from the Resume.",In round 2 interviewer asked questions based on Advanced SQL and Resume in detail,,I would suggest focus on DSA and SQL for any profile.
+Publicis Sapient,SDE,No,,"3 rounds
+1. Online coding round
+2. Technical Interview
+3. HR Interview","There were 2 question to be solved in 60 minutes.
+1st question was to be solved using greedy/divide-and-conquer technique.
+2nd question was of Dynamic Programming.
+Both questions were of medium to hard level.","Questions related to OOPs(almost all oops concepts were touched with real life instances).
+Coding question related to DP and Greedy.
+1 or 2 puzzles.
+Question on networking, OS and DBMS.
+Discussion on the projects and internship I underwent.","Brief introduction of myself, my interest excluding technical one's.
+What do I do in my free time.
+What expectations I have when I join the company.
+My short and long term goals.
+My views towards different job profiles in a project like how a tester is different from a developer. ",,"You should have good knowledge of DSA, you should not only be able derive the solution but also implement them in a limited time environment. For this, practise is the key, try codeforces, codechef, GFG, etc.
+Have decent knowledge of OS, DBMS, Networking is always good.
+Try to be confident and don't try to fake during HR round, they will know!"
+Accenture,Sde,No,,3,Aptitude + coding ques(2),Project + intro,No,,
+Accenture,Associate Software Engineer ,No,,4,"1st round is of MCQ questions. This round has questions based on Quantitative Aptitude, Logical Reasoning, and Verbal Ability and this is an Eliminator round.2nd round contains 2 coding questions and is also a eliminator round and 3rd round contains of communication skills.","Some basic questions of Oops,SQL and 1 coding question.","Questions based on situations,on your life.",,
+Amazon,SDE,No,"Amazon 3rd Drive, On campus","4- coding, interview, interview, bar raiser",dsa based questions,"dsa based questions, introduction","dsa based questions, introduction, general knowledge based on current trends in CSE/IT","Bar raiser- 2 dsa, 2 amazon leadership ","prepare from leetcode and gfg, be aware of what pattern companies are following and what their current requirements are,  speak english fluently, have a good camera setup with good lighting and decent mic, study little bit of oops, networking, dbms, os. "
+Dxc technology ,Associate Professional ,No,,3,Basic aptitude and coding questions along with puzzles,Coding question like dsa and sql along with c and cplus language and tricky case studies,"Whats your background, skills, about yourself , Academic question ",,
+Going for higher studies,Going for higher studies,No,,--,--,--,--,,
+Wipro,Project Engineer,No,,2,"there were different sections in online test
+1. Aptitude section
+2. English Section
+3. Coding Section
+4. Paragraph writing section","Question were between easy to medium difficulty , for aptitude round a bit of a practice is required rest is easy.",In interview from me they asked only HR questions but to some they even asked technical ones so please be prepared. I would recommend to look for the interview experiences available on the internet this would give you an idea of how the questions would be asked.,,
+No,NA,No,,NA,NA,NA,NA,NA,NA
+Optum global solutions,SWE,No,,2,"Q1 -> https://www.google.com/amp/s/www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/amp/
+
+Q2 -> 
+https://www.google.com/amp/s/www.geeksforgeeks.org/count-greater-elements-on-the-left-side-of-every-array-element/amp/","Questions based resume. Talked about all projects on my resume, internship. 
+
+Asked few questions about the company and why I wanted to join the organisation",Was not held,None,For this particular drive I put on more focus on OOPS. 
+Reliance Jio,Deputy Manager - (Graduate Engineer Trainee),No,,2,"One Medium difficulty level question from DP was asked.
+One Logic based Coding problem was asked.","Interviewer was very polite. First he introduce himself and then asked me to introduce. Then he asked me some basic theoretical questions such as what is recursion, Stack, and pointers etc.
+Then he asked me to write codes of linear search, prime number, Fibonacci series and he also asked me to improve the code complexity. After this he asked me to do a dynamic programming question. 
+
+After coding problem discussion he give me a puzzle question to solve. The question was of easy level and one can easily solve. Then after this he asked me to discuss all projects that I have written on my resume. 
+
+After this interview was over and he allow me to asked question if I want to know something about him and company.",We are expecting this round to be on track but may be because of lack of time HR round didn't happened.,,"GeeksforGeeks, YouTube.
+
+Try to solve as many coding problem as you can.
+Must see previous interview experience of that company before appearing for the interview."
+Not Placed,NA,No,,NA,NA,NA,NA,,
+Landisgyr,Sde,No,,3,Aptitude and coding test,Questions about Java and c# and data structures,Personal details,,
+NA,NA,No,NA,NA,NA,NA,NA,NA,NA
+Coriolis,Member of technical staff,Yes,Monster,4,"There were 10 questions 
+6 of them were aptitude questions with quantitative majority.
+2 of them were to be coded in python 
+ 2 of them were SQL questions.","The 1st round was based on my resume .
+The interviewer asked about everything that was on my resume along with some puzzles.
+It was a 2 hour interview in which I also had to do some coding on my preferred ide .","Round 2 was technical interview where they asked me about the technologies related to the profile and key office productivities questions related to my works on different os, devops, and blockchain fields.","It was just a regular HR round with skill assessments keen to know my interests towards my future at the company and my passions in life , communication skills and lastly for salary negotiation.
+","I was preparing for interviews since the start of 4th year commanding knowledge in particularly two languages python and c++,with projects done specifically in machine learning which helped me explain my enthusiasm towards the ai field. I also prepared for data structures and algorithms ."
+Tavisca Solutions,Software trainee,No,,"aptitude round, coding round, technical interveiw, HR interveiw",based java programming and numerical aptitude,based on experience have in my resume and DSA questions,How will you manage the typical lifestyle of this sector,,DSA
+Accenture,Associate Software Engineer,No,,2 online assessment rounds and 1 interview round,"Questions related to logical reasoning, aptitude, English proficiency, technical questions and coding questions. ","Questions related to resume and projects, some basic conceptual questions and HR based questions. ",Same as above since there was 1 interview round. ,,
+SOTI Inc.,SDET,No,,2,"Q. Find the Number of Ordered Pairs(A[x],B[y],C[z],D[w]) such that A[x]+B[y]+C[z]+D[w]=0 
+     OUTPUT: Number of Ordered Pairs where (A[x],B[y],C[z],D[w])=0
+   
+       Conditions : 1<=N<=1000.
+                             -1000<=A[x],B[y],C[z],D[w]<=1000.
+                              Each arrays is a set with only unique values in each of the arrays.
+                              Time Complexity should be less than O(N^4).","Q. You are given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in the list. One of the integers is missing in the list. Write an efficient code to find the missing integer.
+
+Q. Puzzles 
+ For ex : A person has one lion, one sheep and a bundle of grass. He wants to cross a river 
+               but there is only one boat and it can’t sustain the weight of more than two articles 
+               at time.
+
+                Also, he has to make sure that the lion doesn’t eat the sheep and the sheep doesn’t 
+                eat the grass. How will he get to the other side of the river with all three intact?
+
+Q. Projects Discussion.
+Q. Internship Discussion.","Q. 3 main learnings from Internship experience ? 
+Q. How to manage deadline for a particular project ?",,
+Cognizant ,Analyst ,No,,"Test , Technical interview, HR Interview ",C++ questions and English ,C++ questions ,General Knowledge ,,
+Oracle financial,Associate technical analyst,No,,"4 (Online assessment, 1st technical interview, 2nd technical interview, HR round) ","There were mixed questions in 5 categories, The questions included some mathatical problems, some reasoning problems, questions related to trees, stack, queue and some basic programming questions like predict the output of following code. 
+Every section has about 10 such questions, and a good time management was required to complete the assignment. 
+In the last sections there were some behavourial questions which were mandatory to answer, the questions included why do you want to join oracle and so. 
+A lot of time management is required to successfully compete this assessment and that's what they were checking, also the behavourial questions had a lot of weigtage because some people answered all questions correctly but behavourial questions poorly and they were not selected. So, strengthen your DSA, practice some aptitude problems, work on soft skills to qualify this round. ","It was quite normal, I was asked to introduce myself and about my internship work of my precious company, what I learnt there also an easy programming question was given to me of making a class, which reverses a string passed to it.","In round 2 I was asked some dev related questions about database management, then I was given a scenario which basically suggested to use any way to decrease or manage traffic on a website but the main reason of asking this was to see if I could figure out what I basically needs to do ones you know it then things become easier, luckily I did this sort of work during my internship so I explained him about traffic management, microservices and captcha authentication.
+He was impressed with my answer and I was qualified for HR round, where some basic behavourial questions were asked about time management, that were easy to answer if you have good soft skills. ",,"Focus on DSA and basic programming concepts, it's good to have some development knowledge but DSA is most important. Also polish your soft skills because they are going to be most helpful during an interview "
+Paytm,QA,No,,3,DSA Medium level ,"Question based on Linux.
+Project ( My project is based on shell programming so he asked to grep a line ( ex. from line 16 to 20. from a text file )
+","Basic DSA questions with dry run.
+ NO HR Round ",,
+Reliance Jio ,Deputy Manager-SDE,No,,2,"Mostly DSA, OOPS, SQL and DBMS","*1 hour 10 minutes total time*
+
+Tell me about yourself.
+Your college degree and specialisation.
+I said DSA and Cloud Computing, so some basic questions regarding them.
+Basics of C/C++
+Why do we use increment and decrement operators?
+What is typedef?
+Call by value and call by reference
+Can we use a variable with same name in main() and function () ?
+What is register storage?
+What is object code?
+Steps of compilation (explain)
+What are structures?
+What is union?
+Why use structures and union if we have int, float, etc?
+What is linked list?
+What type of memory allocation does linked list use?
+Difference between malloc and calloc.
+CODING:
+Print Fibonacci sequence using recursion (both sum and series)
+Check whether a linked list is circular or not.
+Multiply two numbers without using '*' and '+' (Russian Peasant problem)
+PUZZLE:
+Use minimum no. Of 8s to reach 1000.
+
+Then, Do you have any questions regarding the company.",No HR round ,,"Start DSA early!
+Pick any YouTubers list for handy DSA questions and complete it.
+Complete the notes of DBMS, OOPS and SQL from GFG or TutorialsPoint.
+"
+PayTM Payments Bank,DevOps Engineeer,No,,2- Online Test followed by Interview,"3 Questions - Arrays, Tree (DFS) and Greedy method","Simple logical puzzles(binary search), Computer Networks(OSI Model), DBMS (DML vs DDL), and Operating System (Synchronization), Simple coding Qs","HR Round was simply conversational, no Qs. ",,"Along with DS and Algo/Leetcode/GFG, don't forget to prepare the core subject syllabus i.e. OOP, DBMS, OS, Comp Networks. "
+Reliance Jio,Deputy Manager,No,,2,General aptitude questions and 2 coding questions basically depend on array and queue.," Focus was on resume. A short discussion on my  projects. 2 puzzles. 2 coding question (only approach was needed) and basic questions about how was your day, how were the online classes and technical rounds and some questions related to my projects.",N/A,,
+Jio,Deputy manager,No,,2,Normal question of aptitudes 2 coding question little bit hard ,Dbms oops and some coding question are asked by interviewer,Hr round was normal basic question asked by hr,No,Geeks for geeks
+No-One,Nothin,No,,-,-,-,-,-,-
+Accenture,Advance ASE(6.5lpa),No,,Aptitude round + coding round + communication round+interview ,"Aptitude related questions(indiabix)
++
+two coding question in coding round having basic difficulty ",Communication round through software only to check the fluency in English ,"About yourself
+About project
+Leadership skill u should have 
+Only hr related questions no coding question ",,Try to solve both questions in coding round then only u get 6.5 lpa otherwise u get 4.5 lpa. company will come upto last of 8th sem keep trying and don't stop learning 
+ACCENTURE,ASE,No,,3,"The online test of accenture  had 3 had stages 
+1)first approx 90+ which includes logial reasoning, quantitative aptitude ,verbal english , Computer basics, networking, MS word 
+2) the second part  test consist two average coding problems
+3) A AI based english communication test ","There were no such technical question asked in the interview they asked some question  about the project which  i have done in college like the problem faced, the result other than that the interviewer asked some questions on my given  hobbies it was moreover a casual conversation ",NA,NA,Prepare a strong coding background with the help of online platforms 
+KPMG,Analyst,No,,2,Aptitude and coding questions,No interview in round 1,"General Hr questions, coding and SQL related questions, Resume based",,
+Infosys,SE,No,,2,Coding aptitude,Coding ece related questions,preferred location,,
+Paytm,QA Engineer,No,,There were 2 Technical rounds,There were 3 coding questions .The  coding questions were of easy level.,Firstly she asked me to introduce myself followed by two coding questions followed by few logical reasoning questions few SQL queries.,"The second round was also kind of technical round which started with introduction then interviewer asked me two coding questions, then few logical reasoning questions then he asked some basic terms of linux and then some questions related to testing since I applied for QA role. The questions were as follows:
+Suppose developer team has developed whatsapp and now you have to test it before it is made available to users so how will you start. What are things that you will check?","There were only two interview rounds, no additional rounds.","For most of the drives Coding, data structure and algorithms are the two most important things. Apart from this for interview round I checked interview experiences for QA role in Paytm of people from GeeksforGeeks and then since I applied for QA role I studied about testing and questions related to it from YouTube. "
+Publicis Sapient,Trainee Engineer,No,,3,Easy-level programming questions were asked.,"In the interview questions from core CS subjects, OOPS, and basic programming questions were asked.",HR round basically they just wanted to know the person. And see whether the person fits into their work culture. ,,
+Reliance JIO,Deputy Manager,No,,1,The question was based on DSA (string matching) other mcq questions of Data Structures,"Basic linear search and questions from cs subjects oops,sql,dbms and discussion on personnel project",None,,"Prepare Dsa and and cs (oops,dbms,cn,sql)subjects thoroughly and keep a grasp on aptitude questions"
+Reliance Jio,Deputy Manager,No,,Total 2 rounds. 1st was Aptitude and coding. 2nd was personal interview,1st was Aptitude and basic to medium level coding.,Questions were mostly on DBMS & minor project.,NA,,
+PhysicsWallah,SDE- FullStack,Yes,LinkedIn,3,"DBMS, OS, CN, DS-Algo","4 pillars of OOPs, Diff between SQL, NoSQL and name a few of it. HTTP requests. Angular and NodeJs basic questions. Standard DP question. Divide and conquer algorithm related questions.",Managerial questions. Situational questions deciding managerial abilities,,"Just focus on the core concepts of DS-Algo and DBMS, OOPs, OS and somewhat development if you want to try some of the growing startups."
+Oracle,Associate Consultant,No,,"1 OA
+2 Technical
+1 HR","General Aptitude
+Coding MCQs : CS subjects like OOPS, DBMS, OS and Data Structures (AVL, BST, ). Given an algorithm choose what will come in a particular step of algorithm flowchart and questions on Software Engineering.
+Verbal Aptitude: Basic grammar questions, sentence arrangement, passage based questions. 2 subjective questions to be written in 10 minutes.","Explain internship tasks and other projects that you have done with SDLC phases.
+What are the different server technologies that you know ?
+JDK Architecture.
+What are the different types of databases? (Detailed with advantages and disadvantages)
+Difference between arrays and linked lists.
+Medium database queries
+Write code to insert element in sorted linked list (without any code editor).
+OOPS concepts.
+Other basic questions.","Make an ER diagram and write queries for a given scenario.
+What is multithreading and how do you achieve multithreading?
+What is hashing?
+Differentiate between modules and packages.
+What are primary and secondary indices in DBMS ?
+Explain DDL and DML statements with examples.
+Write code for merge or quick sort algorithm.",,
+Digi Clan,Digital Marketing & Media Buying Head,Yes,Via linkedin,2,"Questions related to Python , Database , MySql, SEO, Google Ads , Facebook ads, Social Media management","How To Run Marketing Campaigns, Everything about Media Buying",Types of Marketing campaigns in detail and how to use them and also questions asked on some tools which are related to Marketing ,,
+Avizva ,Associate Trainee ,No,,"1. Technical test
+2. Super sixty 
+3. Technical interview and HR interview ","Aptitude question , two SQL queries, two coding question.","1.Two three questions of SOL queries 
+2.DBMS questions 
+3.Generate a random no. From a list 
+4. Puzzle
+5. OOPs","1.About my 10th and 12th academics and performances.
+2. My life in college and earlier.
+3. About my IIT JEE preparation and decisions.
+4. Why you want to join Avizva 
+
+",In super sixty round one image was shown randomly and I had to speak on it for 1 minute non-stop.,"1.Stay confidant on whatever knowledge you have and do not try to fool interviewer , if you don’t know something then straight away tell him so that he can move on other question.
+2.Work on your communication skills 
+3.Don’t worry about interviews questions were very easy."
+Infosys and Jio,Jio - Deputy Manager,No,,2,"Aptitude, Array based question, DSA ","Introduction, Projects details, Internship details, 2 coding question (sorting and DSA), one situation based question",none,none,practice and develop your extra skills with side by side college academics and practice aptitude and Coding as well as because even non tech company too ask technical questions sometimes

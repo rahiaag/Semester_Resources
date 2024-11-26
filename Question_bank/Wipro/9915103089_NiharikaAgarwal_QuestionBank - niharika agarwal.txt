@@ -1,0 +1,12 @@
+Technical Qusetions
+What is DBMS?
+What is the difference between DBMS and RDBMS?
+What is the candidate key and unique key?
+Which generation is your processor on which you have done the minor project of image processing?
+Diagram of 3-Tier architecture of DBMS.
+Why should we hire you?
+HR Questions
+What achievements you have achieved till date?
+What are the 5 trending technologies?
+What is IOT?
+What makes you unique?

@@ -1,0 +1,9 @@
+1.WAP to reverse a string.
+
+2.check if a string is a palindrome or not.
+
+3.what is singleton class
+
+4.what is a friend function.
+
+5.find longest path in a tree 

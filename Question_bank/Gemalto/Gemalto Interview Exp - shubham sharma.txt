@@ -1,0 +1,33 @@
+Gemalto Interview Experience
+
+First Interview :-
+
+ To write and explain a code of finding the most consecutively occurring character in a string, I did that in O(n) complexity.
+
+A normal introduction to myself, just when the interviewer was going through my resume.
+
+Subject related questions, mainly from Operating Systems, DBMS and Data Structures.
+
+Asked a bit about my skills that I mentioned in my resume ( Java and Android ).
+
+Further asked about Normalisation from DBMS (1NF, 2NF, 3NF, BCNF), OOPS concept, with deeply explained examples of both.
+
+ Explanation of Quick Sort.
+
+Second Interview :-
+
+They had the attached rough papers from my 1st interview along my resume.
+
+They started off with java related question, from basics to a good level of difficulty, focused mainly on interfaces, inheriting classes,  abstract classes, constructor overloading, exceptions,  friend functions/ classes , virtual function/ classes, JVM JRE etc and etc .
+
+I had to write example codes on every explanation I gave on questions.
+
+I wrote interfaces creating code, their implementing classes, I wrote classes with different types of constructors & destructors, and every code I wrote was asked for further modifications according to their demand, so I had to be very confident about what I wrote.
+
+They further asked me logical puzzles. One of them was : There are 101 numbers in an array unsorted, 1, 2,3 … 99, 100 are there , find the 101th number ? 
+
+Ans : Add 1,2,3… till 100 and subtract from the sum of array’s all elements.
+
+They asked me SQL based coding question, I remember one : Show the 4th highest paid employee from table ? Other question as well required good knowledge of SQL tags and contraints.
+
+It was a long interview took around 60 min - 70 min. And had faced moderately tough questions.

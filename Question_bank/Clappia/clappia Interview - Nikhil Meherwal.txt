@@ -1,0 +1,15 @@
+1ST ROUND:
+15 MCQ questions based on data-structures, OS, Computer networks and Algorithms.
+
+2ND ROUND:
+Technincal Interview ( through video conferencing ):
+Q1. N cubic boxes of different sizes are given. Arranged in sorted order of sizes. Find the perfect fit box for the given cubic item of size of x. 
+ans = binary search.
+
+Q2. Given a binary tree, A vertical line passes through root dividing left half and right half. Fold along that line (Overlap the left half to the right half ; Overlapping nodes will be replaced by a single with the sum of both overlapping nodes).
+ans = mirror the binary tree along the vertical line (check on geeksforgeeks.org) then traverse the right half of both trees ( mirrored one and given one ).
+
+3RD ROUND:
+Technical Interview (through video conferencing):
+Q. Interviewer gave a sample web page and asked me to mimic it using css and javascript.
+
